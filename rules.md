@@ -4,10 +4,10 @@
 August 29th, 2022.
 
 ## Main Commitment
-- I will code for at least an hour every day for the next 100 days.
-- I will achieve the AWS Associate Developer status.
-- I will complete at least 7 Katas per week.
-- I will complete at least 1 "small" project per month.
+1. I will code for at least an hour every day for the next 100 days.
+2. I will achieve the AWS Associate Developer status.
+3. I will complete at least 7 Katas per week.
+4. I will complete at least 1 "small" project per month.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
